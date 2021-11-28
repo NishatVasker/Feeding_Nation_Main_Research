@@ -11,7 +11,8 @@ rate.
 • A method named getMonthlyInterestRate() that returns the monthly interest rate.
 monthlyInterestRate is annualInterestRate / 12. Note that annualInterestRate is a percentage
 e.g., like 4.5%. You need to divide it by 100
-• The method getMonthlyInterestAmount() is to return monthly interest amount, not the interest
+• The method getMonthlyInterestAmount() is to return monthly interest amount, not the interest[CSE110_Lab06__.pdf](https://github.com/NishatVasker/Bank-Account/files/7613797/CSE110_Lab06__.pdf)
+
 rate. Monthly interest amount is balance * monthlyInterestRate.
 • A method named withdraws that withdraws a specified amount from the account.
 • A method named deposit that deposits a specified amount to the account
